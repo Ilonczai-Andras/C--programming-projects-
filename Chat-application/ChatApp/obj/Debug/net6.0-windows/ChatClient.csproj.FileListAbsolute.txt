@@ -1,0 +1,154 @@
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\bin\Debug\net6.0-windows\ChatClient.exe
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\bin\Debug\net6.0-windows\ChatClient.deps.json
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\bin\Debug\net6.0-windows\ChatClient.runtimeconfig.json
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\bin\Debug\net6.0-windows\ChatClient.dll
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\bin\Debug\net6.0-windows\ChatClient.pdb
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatClient.csproj.AssemblyReference.cache
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\obj\Debug\net6.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatClient_MarkupCompile.cache
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatClient_MarkupCompile.lref
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\obj\Debug\net6.0-windows\MVVM\View\MainWindow.baml
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatClient.g.resources
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatClient.AssemblyInfoInputs.cache
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatClient.AssemblyInfo.cs
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatClient.dll
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\obj\Debug\net6.0-windows\refint\ChatClient.dll
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatClient.pdb
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\obj\Debug\net6.0-windows\ChatClient.genruntimeconfig.cache
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\obj\Debug\net6.0-windows\ref\ChatClient.dll
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatApp\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\kille\Downloads\t\ChatApp\bin\Debug\net6.0-windows\ChatClient.exe
+C:\Users\kille\Downloads\t\ChatApp\bin\Debug\net6.0-windows\ChatClient.deps.json
+C:\Users\kille\Downloads\t\ChatApp\bin\Debug\net6.0-windows\ChatClient.runtimeconfig.json
+C:\Users\kille\Downloads\t\ChatApp\bin\Debug\net6.0-windows\ChatClient.dll
+C:\Users\kille\Downloads\t\ChatApp\bin\Debug\net6.0-windows\ChatClient.pdb
+C:\Users\kille\Downloads\t\ChatApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\kille\Downloads\t\ChatApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kille\Downloads\t\ChatApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kille\Downloads\t\ChatApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kille\Downloads\t\ChatApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kille\Downloads\t\ChatApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.csproj.AssemblyReference.cache
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\Register.g.cs
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\ChatClient_MarkupCompile.cache
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\ChatClient_MarkupCompile.lref
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\Login.baml
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\MVVM\View\MainWindow.baml
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\Register.baml
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.g.resources
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.AssemblyInfoInputs.cache
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.AssemblyInfo.cs
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.csproj.CopyComplete
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.dll
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\refint\ChatClient.dll
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.pdb
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.genruntimeconfig.cache
+C:\Users\kille\Downloads\t\ChatApp\obj\Debug\net6.0-windows\ref\ChatClient.dll
+C:\Users\Asus\Desktop\t\ChatApp\bin\Debug\net6.0-windows\ChatClient.exe
+C:\Users\Asus\Desktop\t\ChatApp\bin\Debug\net6.0-windows\ChatClient.deps.json
+C:\Users\Asus\Desktop\t\ChatApp\bin\Debug\net6.0-windows\ChatClient.runtimeconfig.json
+C:\Users\Asus\Desktop\t\ChatApp\bin\Debug\net6.0-windows\ChatClient.dll
+C:\Users\Asus\Desktop\t\ChatApp\bin\Debug\net6.0-windows\ChatClient.pdb
+C:\Users\Asus\Desktop\t\ChatApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\t\ChatApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Desktop\t\ChatApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Desktop\t\ChatApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Desktop\t\ChatApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\t\ChatApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\Register.g.cs
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\ChatClient_MarkupCompile.cache
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\ChatClient_MarkupCompile.lref
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\Login.baml
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\MVVM\View\MainWindow.baml
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\Register.baml
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.g.resources
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.AssemblyInfo.cs
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.csproj.CopyComplete
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.dll
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\refint\ChatClient.dll
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.pdb
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.genruntimeconfig.cache
+C:\Users\Asus\Desktop\t\ChatApp\obj\Debug\net6.0-windows\ref\ChatClient.dll
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\bin\Debug\net6.0-windows\ChatClient.exe
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\bin\Debug\net6.0-windows\ChatClient.deps.json
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\bin\Debug\net6.0-windows\ChatClient.runtimeconfig.json
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\bin\Debug\net6.0-windows\ChatClient.dll
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\bin\Debug\net6.0-windows\ChatClient.pdb
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.csproj.AssemblyReference.cache
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\Register.g.cs
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\ChatClient_MarkupCompile.cache
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\ChatClient_MarkupCompile.lref
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\Login.baml
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\MVVM\View\MainWindow.baml
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\Register.baml
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.g.resources
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.AssemblyInfoInputs.cache
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.AssemblyInfo.cs
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.csproj.CopyComplete
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.dll
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\refint\ChatClient.dll
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.pdb
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\ChatClient.genruntimeconfig.cache
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatApp\obj\Debug\net6.0-windows\ref\ChatClient.dll
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\bin\Debug\net6.0-windows\ChatClient.exe
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\bin\Debug\net6.0-windows\ChatClient.deps.json
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\bin\Debug\net6.0-windows\ChatClient.runtimeconfig.json
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\bin\Debug\net6.0-windows\ChatClient.dll
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\bin\Debug\net6.0-windows\ChatClient.pdb
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\ChatClient.csproj.AssemblyReference.cache
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\Login.g.cs
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\MVVM\View\MainWindow.g.cs
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\Register.g.cs
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\App.g.cs
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\ChatClient_MarkupCompile.cache
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\ChatClient_MarkupCompile.lref
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\Login.baml
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\MVVM\View\MainWindow.baml
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\Register.baml
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\ChatClient.g.resources
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\ChatClient.AssemblyInfoInputs.cache
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\ChatClient.AssemblyInfo.cs
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\ChatClient.csproj.CopyComplete
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\ChatClient.dll
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\refint\ChatClient.dll
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\ChatClient.pdb
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\ChatClient.genruntimeconfig.cache
+D:\Andreas\Programming\C#\Távközlő2\ChatApp\obj\Debug\net6.0-windows\ref\ChatClient.dll

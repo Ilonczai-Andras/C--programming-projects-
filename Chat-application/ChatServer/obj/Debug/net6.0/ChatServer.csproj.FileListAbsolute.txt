@@ -1,0 +1,75 @@
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatServer\bin\Debug\net6.0\ChatServer.exe
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatServer\bin\Debug\net6.0\ChatServer.deps.json
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatServer\bin\Debug\net6.0\ChatServer.runtimeconfig.json
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatServer\bin\Debug\net6.0\ChatServer.dll
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatServer\bin\Debug\net6.0\ChatServer.pdb
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.csproj.AssemblyReference.cache
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.AssemblyInfo.cs
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.dll
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatServer\obj\Debug\net6.0\refint\ChatServer.dll
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.pdb
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.genruntimeconfig.cache
+C:\Users\Kupecz Levente\source\repos\ChatApp\ChatServer\obj\Debug\net6.0\ref\ChatServer.dll
+C:\Users\kille\Downloads\t\ChatServer\bin\Debug\net6.0\ChatServer.exe
+C:\Users\kille\Downloads\t\ChatServer\bin\Debug\net6.0\ChatServer.deps.json
+C:\Users\kille\Downloads\t\ChatServer\bin\Debug\net6.0\ChatServer.runtimeconfig.json
+C:\Users\kille\Downloads\t\ChatServer\bin\Debug\net6.0\ChatServer.dll
+C:\Users\kille\Downloads\t\ChatServer\bin\Debug\net6.0\ChatServer.pdb
+C:\Users\kille\Downloads\t\ChatServer\obj\Debug\net6.0\ChatServer.csproj.AssemblyReference.cache
+C:\Users\kille\Downloads\t\ChatServer\obj\Debug\net6.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kille\Downloads\t\ChatServer\obj\Debug\net6.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\kille\Downloads\t\ChatServer\obj\Debug\net6.0\ChatServer.AssemblyInfo.cs
+C:\Users\kille\Downloads\t\ChatServer\obj\Debug\net6.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\kille\Downloads\t\ChatServer\obj\Debug\net6.0\ChatServer.dll
+C:\Users\kille\Downloads\t\ChatServer\obj\Debug\net6.0\refint\ChatServer.dll
+C:\Users\kille\Downloads\t\ChatServer\obj\Debug\net6.0\ChatServer.pdb
+C:\Users\kille\Downloads\t\ChatServer\obj\Debug\net6.0\ChatServer.genruntimeconfig.cache
+C:\Users\kille\Downloads\t\ChatServer\obj\Debug\net6.0\ref\ChatServer.dll
+C:\Users\Asus\Desktop\t\ChatServer\bin\Debug\net6.0\ChatServer.exe
+C:\Users\Asus\Desktop\t\ChatServer\bin\Debug\net6.0\ChatServer.deps.json
+C:\Users\Asus\Desktop\t\ChatServer\bin\Debug\net6.0\ChatServer.runtimeconfig.json
+C:\Users\Asus\Desktop\t\ChatServer\bin\Debug\net6.0\ChatServer.dll
+C:\Users\Asus\Desktop\t\ChatServer\bin\Debug\net6.0\ChatServer.pdb
+C:\Users\Asus\Desktop\t\ChatServer\obj\Debug\net6.0\ChatServer.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\t\ChatServer\obj\Debug\net6.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\t\ChatServer\obj\Debug\net6.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\t\ChatServer\obj\Debug\net6.0\ChatServer.AssemblyInfo.cs
+C:\Users\Asus\Desktop\t\ChatServer\obj\Debug\net6.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\t\ChatServer\obj\Debug\net6.0\ChatServer.dll
+C:\Users\Asus\Desktop\t\ChatServer\obj\Debug\net6.0\refint\ChatServer.dll
+C:\Users\Asus\Desktop\t\ChatServer\obj\Debug\net6.0\ChatServer.pdb
+C:\Users\Asus\Desktop\t\ChatServer\obj\Debug\net6.0\ChatServer.genruntimeconfig.cache
+C:\Users\Asus\Desktop\t\ChatServer\obj\Debug\net6.0\ref\ChatServer.dll
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatServer\bin\Debug\net6.0\ChatServer.exe
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatServer\bin\Debug\net6.0\ChatServer.deps.json
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatServer\bin\Debug\net6.0\ChatServer.runtimeconfig.json
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatServer\bin\Debug\net6.0\ChatServer.dll
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatServer\bin\Debug\net6.0\ChatServer.pdb
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatServer\obj\Debug\net6.0\ChatServer.csproj.AssemblyReference.cache
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatServer\obj\Debug\net6.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatServer\obj\Debug\net6.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatServer\obj\Debug\net6.0\ChatServer.AssemblyInfo.cs
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatServer\obj\Debug\net6.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatServer\obj\Debug\net6.0\ChatServer.dll
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatServer\obj\Debug\net6.0\refint\ChatServer.dll
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatServer\obj\Debug\net6.0\ChatServer.pdb
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatServer\obj\Debug\net6.0\ChatServer.genruntimeconfig.cache
+C:\Users\kille\Downloads\modositott_chat_program_0427\t\ChatServer\obj\Debug\net6.0\ref\ChatServer.dll
+D:\Andreas\Programming\C#\Távközlő2\ChatServer\bin\Debug\net6.0\ChatServer.exe
+D:\Andreas\Programming\C#\Távközlő2\ChatServer\bin\Debug\net6.0\ChatServer.deps.json
+D:\Andreas\Programming\C#\Távközlő2\ChatServer\bin\Debug\net6.0\ChatServer.runtimeconfig.json
+D:\Andreas\Programming\C#\Távközlő2\ChatServer\bin\Debug\net6.0\ChatServer.dll
+D:\Andreas\Programming\C#\Távközlő2\ChatServer\bin\Debug\net6.0\ChatServer.pdb
+D:\Andreas\Programming\C#\Távközlő2\ChatServer\obj\Debug\net6.0\ChatServer.csproj.AssemblyReference.cache
+D:\Andreas\Programming\C#\Távközlő2\ChatServer\obj\Debug\net6.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andreas\Programming\C#\Távközlő2\ChatServer\obj\Debug\net6.0\ChatServer.AssemblyInfoInputs.cache
+D:\Andreas\Programming\C#\Távközlő2\ChatServer\obj\Debug\net6.0\ChatServer.AssemblyInfo.cs
+D:\Andreas\Programming\C#\Távközlő2\ChatServer\obj\Debug\net6.0\ChatServer.csproj.CoreCompileInputs.cache
+D:\Andreas\Programming\C#\Távközlő2\ChatServer\obj\Debug\net6.0\ChatServer.dll
+D:\Andreas\Programming\C#\Távközlő2\ChatServer\obj\Debug\net6.0\refint\ChatServer.dll
+D:\Andreas\Programming\C#\Távközlő2\ChatServer\obj\Debug\net6.0\ChatServer.pdb
+D:\Andreas\Programming\C#\Távközlő2\ChatServer\obj\Debug\net6.0\ChatServer.genruntimeconfig.cache
+D:\Andreas\Programming\C#\Távközlő2\ChatServer\obj\Debug\net6.0\ref\ChatServer.dll
